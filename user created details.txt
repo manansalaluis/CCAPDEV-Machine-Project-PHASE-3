@@ -1,0 +1,21 @@
+ADMIN
+username = labtech password = 123456
+
+USER 1:
+username = akosirichard password = Richard@123
+
+USER 2:
+username = rafaelsantos password = Rafael@12345
+
+USER 3:
+username = camilleperez password = Camille#67890
+
+USER 4:
+username = andrewmendoza password = Andrew!11223
+
+USER 5:
+username = gabrielbautista password = Gab#98765
+
+USER TEST:
+
+username = practice password = pr@ct1c3l4ng pr4ct1ce@
