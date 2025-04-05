@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const bcrypt = require("bcrypt"); // For password hashing
+const bcrypt = require("bcryptjs"); // For password hashing
 const path = require("path");
 
 // Import the User model from models folder
